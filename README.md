@@ -7,3 +7,7 @@
 * Create Terraform recipies to create project and network from the ground up
 * Implement a secure networking setup by constraining networks to private spaces and no external addresses
 * Provide implementations for Online and Batch applications leveraging various GCP services
+
+# Tooling and Utilities
+
+* Infrastructure as Code - Terragrunt + Terraform
